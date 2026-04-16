@@ -1,4 +1,4 @@
-<img src='banner-pi1.jpg' width=100% />
+<img src='banner-pi.jpg' width=100% />
 
 # 📘 Inteligência Artificial
 
@@ -29,7 +29,7 @@ Repositório com os slides das aulas apresentados em sala.
 - Este material é de apoio às aulas
 - Os exemplos e explicações completas são apresentados em sala
 
-<img src='logo-pi1.png' width=25% />
+<img src='logo-pi.png' width=25% />
 
 ---
 
