@@ -1,8 +1,8 @@
 <img src='banner-pi.png' width=100% />
 
-# 📘 Inteligência Artificial
+# 📘 Projeto Integrador I
 
-Repositório com os slides das aulas apresentados em sala.
+Repositório com os exemplo das aulas apresentados em sala.
 
 ---
 
@@ -10,9 +10,13 @@ Repositório com os slides das aulas apresentados em sala.
 
 ### 🟢 Módulo 1 — Fundamentos
 
-- [Aula 01 — Conceito de IA e Histórico](./a01-Conceito-Historico/slides.pdf)
-- [Aula 02 — Resolução de Problemas por Busca](./a02-Resolucao-Por-Busca/slides.pdf)
-
+- [01 — Introdução ao Python](./python/a01-intro.py)
+- [02 — Comando input()](./python/a02-input.py)
+- [03 — Comando if](./python/a03-if.py)
+- [03 — Exercícios if](./python/a03-if-exercicio.py)
+- [04 — Exercícios](./python/a04-exercicio.py)
+- [04 — Comando while](./python/a04-while.py)
+- [05 — Listas](./python/a05-listas.py)
 
 ---
 
