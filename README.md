@@ -20,14 +20,6 @@ Repositório com os exemplo das aulas apresentados em sala.
 
 ---
 
-## 📌 Como usar
-
-- Clique na aula desejada
-- O slide abrirá direto no navegador
-- Você também pode baixar o PDF
-
----
-
 ## ⚠️ Observações
 
 - Este material é de apoio às aulas
@@ -40,5 +32,4 @@ Repositório com os exemplo das aulas apresentados em sala.
 ## 👨‍🏫 Professor Parisotto
 
 Material desenvolvido para uso em aula.
-# PI1-ProjetoIntegrador1
 Material didádico para a disciplina de PI1 Projeto Integrador 1
